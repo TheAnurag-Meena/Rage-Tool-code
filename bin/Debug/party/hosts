@@ -1,0 +1,100 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+0.0.0.1 report1.smartgaga.com
+0.0.0.1 sg.tdm.qq.com
+0.0.0.1 gcloud.qq.com
+0.0.0.1 qq.com
+0.0.0.1 ig-us-sdakapi.igamecj.com
+0.0.0.1 helpshift.com
+0.0.0.1 astat.bugly.qcloud.com
+0.0.0.1 403361.d1.download.ettdnsv.com
+0.0.0.1 d1.download.ettdnsv.com
+0.0.0.1 ettdnsv.com
+0.0.0.1 tencentgames.helpshift.com
+0.0.0.1 adjust.com
+0.0.0.1 app-measurement.com
+0.0.0.1 tcdn.qq.com
+0.0.0.1 cloud.gsdk.proximabeta.com
+0.0.0.1 vmp.qq.com
+0.0.0.1 403361.d1.download.ettdnsv.com
+0.0.0.1 a1807.b.akamai.net
+0.0.0.1 ig-us-notice.igamecj.com
+0.0.0.1 web.gcloud.igamecj.com
+0.0.0.1 lobby.igamecj.com
+0.0.0.1 a1845.dscb.akamai.net
+0.0.0.1 a1967.v.akamai.net
+0.0.0.1 wd-prod-cp-eu-north-2-fe.northeurope.cloudapp.azure.com
+0.0.0.1 scontent.xx.fbcdn.net
+0.0.0.1 a1363.dscg.akamai.net
+0.0.0.1 dual-a-0001.a-msedge.net
+0.0.0.1 usa.csoversea.mbgame.anticheatexpert.com
+0.0.0.1 csoversea.mbgame.anticheatexpert.com
+0.0.0.1 mbgame.anticheatexpert.com
+0.0.0.1 anticheatexpert.com
+0.0.0.1 mobile-gtalk.l.google.com
+0.0.0.1 a-0019.a-msedge.net
+0.0.0.1 ghs.google.com
+0.0.0.1 webblocker.org
+0.0.0.1 tandsapplb-2048963053.us-east-1.elb.amazonaws.com
+0.0.0.1 a767.dscg3.akamai.net
+0.0.0.1 cdn.globalsigncdn.com.cdn.cloudflare.net
+0.0.0.1 pki-goog.l.google.com
+0.0.0.1 sg.tdm.qq.com
+0.0.0.1 sgpcloudctrl.gcloud.qq.com
+0.0.0.1 android.l.google.com
+0.0.0.1 tencentgames.helpshift.com
+0.0.0.1 app.adjust.com
+0.0.0.1 x2.tcdn.qq.com
+0.0.0.1 gsdk.proximabeta.com
+0.0.0.1 proximabeta.com
+0.0.0.1 403361.d1.download.ettdnsv.com
+0.0.0.1 b.akamai.net
+0.0.0.1 akamai.net
+0.0.0.1 file.igamecj.com
+0.0.0.1 log.igamecj.com
+0.0.0.1 igamecj.com
+0.0.0.1 files.igamecj.com
+0.0.0.1 pay.igamecj.com
+0.0.0.1 idcconfig.gcloud.wechatos.net
+0.0.0.1 e11290.dspg.akamaiedge.net
+0.0.0.1 waws-prod-sn1-021.cloudapp.net
+0.0.0.1 e15275.g.akamaiedge.net
+0.0.0.1 g.akamaiedge.net
+0.0.0.1 akamaiedge.net
+0.0.0.1 2.android.pool.ntp.org
+0.0.0.1 star.c10r.facebook.com
+0.0.0.1 sgpcloudctrl.gcloud.qq.com
+0.0.0.1 403361.d1.download.ettdnsv.com
+0.0.0.1 a1807.b.akamai.net
+0.0.0.1 e1553.dspg.akamaiedge.net
+0.0.0.1 e15275.g.akamaiedge.net
+0.0.0.1 web.gcloud.igamecj.com
+0.0.0.1 public.igamecj.com
+0.0.0.1 idcconfig.gcloud.wechatos.net
+0.0.0.1 pay.igamecj.com
+0.0.0.1 a1845.dscb.akamai.net
+0.0.0.1 8.8.8.8
+0.0.0.1 1.1.1.1
+0.0.0.1 intldlgs.qq.com
+0.0.0.1 qq.com
+0.0.0.1 down.qq.com
+0.0.0.1 sdk.e.qq.com
